@@ -4,6 +4,10 @@ This repository contains code and results for COVID-19 classification assignment
 # Dataset
 https://drive.google.com/file/u/1/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/view?usp=drive_open
 
+# Model used:
+- Vgg 16
+- Resnet 18
+
 # Exerimental Setup:
 For different experimentations on the dataset different models and hyper-parameters were chosen. These are given below.
 
