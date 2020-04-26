@@ -36,27 +36,27 @@ May the results especially in task2 may seems bad to you because i have blindly 
 ## Task1
 So overall results on vgg16 model are:
 Results on 20 epochs and 0.01 learning rate for training. 
-Training loss:  0.22022960937403618 	Validation loss:  0.3300679412980874
-Training Accuracy:  91.43333333333334 	 Validation Accuracy:  87.86666666666667
-Testing accuracy: 93%
+- Training loss:  0.22022960937403618, Validation loss:  0.3300679412980874
+- Training Accuracy:  91.43333333333334, Validation Accuracy:  87.86666666666667
+- Testing accuracy: 93%
 
 
 So overall results on ResNet model are:
 Results on 20 epochs and 0.01 learning rate for training.
-Training loss:  0.27779580268295523 	 Validation loss:  0.3517129570245743
-Training Accuracy:  88.53333333333333 	 Validation Accuracy:  84.2
-Testing accuracy = 91%
+- Training loss:  0.27779580268295523, Validation loss:  0.3517129570245743
+- Training Accuracy:  88.53333333333333, Validation Accuracy:  84.2
+- Testing accuracy = 91%
 
 ## Task2
 So overall results on vgg16 model are:
 Results on 10 epochs and 0.01 learning rate for training. 
-Training loss:  0.7502736357053121 	 Validation loss:  0.7653716485551063
-Training Accuracy:  55.61666666666667 	 Validation Accuracy:  45.800000000000004
-Testing accuracy: 46%
+- Training loss:  0.7502736357053121, Validation loss:  0.7653716485551063
+- Training Accuracy:  55.61666666666667, Validation Accuracy:  45.800000000000004
+- Testing accuracy: 46%
 
 
 So overall results on ResNet model are:
 Results on 10 epochs and 0.01 learning rate for training.
-Training loss:  0.1168946027953891 	   Validation loss:  0.22721742341915765
-Training Accuracy:  95.65833333333333 	 Validation Accuracy: 91.73333333333333
-Testing Accuracy = 96%
+- Training loss:  0.1168946027953891, Validation loss:  0.22721742341915765
+- Training Accuracy:  95.65833333333333, Validation Accuracy: 91.73333333333333
+- Testing Accuracy = 96%
