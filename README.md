@@ -4,6 +4,9 @@ This repository contains code and results for COVID-19 classification assignment
 # Dataset
 https://drive.google.com/file/u/1/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/view?usp=drive_open
 
+# Pretrained Models for Unaballanced Data
+https://drive.google.com/open?id=18gm12p4rG_Ed230u0yAvtfIsUvgvbPow
+
 # Model used:
 - Vgg 16
 - Resnet 18
